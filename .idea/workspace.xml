@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="982c9d4e-59f3-4d6b-84f5-c8de4dcda06c" name="Default Changelist" comment="" />
+    <list default="true" id="982c9d4e-59f3-4d6b-84f5-c8de4dcda06c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pop up/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pop up/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pop up/popup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arifublog_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/firefox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/geckodriver-v0.26.0-linux64 (1)/geckodriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arifu_website_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/arifu_website_testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/drivers/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_py.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Nap.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Nap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_test_automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_test_automation.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="363" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -16,10 +33,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TuuguLKdimivUIhsq2pkbiRaWK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -33,29 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.arifu_website_testing">
-    <configuration name="Basic commands" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Selenium webtesting" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic commands.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.turn_key">
     <configuration name="Nap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Selenium webtesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="arifublog_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Selenium webtesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +120,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_py.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arifublog_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turn_key" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Selenium webtesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/turn_key.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.arifu_website_testing" />
+        <item itemvalue="Python.turn_key" />
         <item itemvalue="Python.web_test_automation" />
+        <item itemvalue="Python.arifu_website_testing" />
         <item itemvalue="Python.Nap" />
-        <item itemvalue="Python.test_py" />
-        <item itemvalue="Python.Basic commands" />
+        <item itemvalue="Python.arifublog_test" />
       </list>
     </recent_temporary>
   </component>
@@ -171,12 +200,36 @@
       <workItem from="1575892977017" duration="1205000" />
       <workItem from="1576837493363" duration="1858000" />
       <workItem from="1579244731977" duration="2478000" />
-      <workItem from="1580124576069" duration="15794000" />
+      <workItem from="1580124576069" duration="19127000" />
+      <workItem from="1580279027321" duration="28220000" />
+      <workItem from="1580474057951" duration="40755000" />
+      <workItem from="1581492223569" duration="27638000" />
+      <workItem from="1581927540979" duration="33811000" />
+      <workItem from="1582093132684" duration="2568000" />
+      <workItem from="1582105950377" duration="11636000" />
+      <workItem from="1582538539928" duration="15060000" />
+      <workItem from="1582797165728" duration="13726000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -191,10 +244,14 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Selenium_webtesting$deleted.coverage" NAME="deleted Coverage Results" MODIFIED="1574423569072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Selenium_webtesting$web_test_automation.coverage" NAME="web_test_automation Coverage Results" MODIFIED="1580218066881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_webtesting$turn_key.coverage" NAME="turn_key Coverage Results" MODIFIED="1583149999909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Selenium_webtesting$web_test_automation.coverage" NAME="web_test_automation Coverage Results" MODIFIED="1583131426212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium_webtesting$Basic_commands.coverage" NAME="Basic commands Coverage Results" MODIFIED="1574432101131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Selenium_webtesting$test_py.coverage" NAME="test_py Coverage Results" MODIFIED="1574861060927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Selenium_webtesting$Nap.coverage" NAME="Nap Coverage Results" MODIFIED="1576838708049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
-    <SUITE FILE_PATH="coverage/Selenium_webtesting$arifu_website_testing.coverage" NAME="arifu_website_testing Coverage Results" MODIFIED="1580218627464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_webtesting$test_py.coverage" NAME="test_py Coverage Results" MODIFIED="1580991915374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_webtesting$Nap.coverage" NAME="Nap Coverage Results" MODIFIED="1582699256948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Selenium_webtesting$arifublog_test.coverage" NAME="arifublog_test Coverage Results" MODIFIED="1582544645851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_webtesting$arifu_website_testing.coverage" NAME="arifu_website_testing Coverage Results" MODIFIED="1582873698161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Selenium_webtesting$Drop_down.coverage" NAME="Drop down Coverage Results" MODIFIED="1581683214134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Selenium_webtesting$popup.coverage" NAME="popup Coverage Results" MODIFIED="1582119323576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pop up" />
   </component>
 </project>
